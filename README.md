@@ -1,7 +1,14 @@
 <h1 align="center">Hi there 👋  Im Paige! 💕 </h1>
 <h3 align="center">Data Scientist with the love to learn and desire to improve.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paigerackley&label=Profile%20views&color=0e75b6&style=flat" alt="paigerackley" /> 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paigerackley&label=Profile%20views&color=0e75b6&style=flat" alt="paigerackley" /> </p>
+<p align="left"> <b> My hobbies/interests include:</b>
+ 
+           - Video Games 👾 / Video Game Modding 🎮
+           - 🌱 Plant Mom / Cat Mom 🐾
+           - Love to eat 😋 / love to cook 🍴
+           - Astrology ♓ / Astronomy 🌌 
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=paigerackley&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 

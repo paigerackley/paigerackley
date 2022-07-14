@@ -5,7 +5,7 @@
 <p align="left"> <b> My hobbies/interests include:</b>
  
            - Video Games 👾 / Video Game Modding 🎮
-           - 🌱 Plant Mom / Cat Mom 🐾
+           - Plant Mom 🌱 / Cat Mom 🐾
            - Love to eat 😋 / love to cook 🍴
            - Astrology ♓ / Astronomy 🌌 
  

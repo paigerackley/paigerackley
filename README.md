@@ -8,6 +8,9 @@
            - Plant Mom 🌱 / Cat Mom 🐾
            - Love to eat 😋 / love to cook 🍴
            - Astrology ♓ / Astronomy 🌌 
+           
+ <b>My Skillz include:</b>
+ Python - SQL - Tableau - Applied Statistics - Pandas - Numpy - Matplotlib - Seaborn - Plotly - Machine Learning - Natural Language Processing  - Data Storytelling - Git - Jupyter Notebooks - Microsoft Excel - Critical Thinking - HTML
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=paigerackley&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 </p>

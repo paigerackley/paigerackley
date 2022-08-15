@@ -19,10 +19,3 @@
  
  
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paigerackley&layout=compact&theme=bear&count_private=true)
- 
- 
- <p align="left"> My learning is important to me, so these are the sites I use to expand my knowledge!</p
- 
-  - [Codeacademy](https://www.codecademy.com/profiles/paigeRackley2998706971)
- 
-  - [Udemy](https://www.udemy.com/user/paige-e-rackley/)
